@@ -37,11 +37,11 @@ Esta API permite la gestión de información de vacunación dentro de la platafo
     ```
     npm install -g serverless
     ```
-Autenticarse con AWS:
+2. Autenticarse con AWS:
     ```
     serverless config credentials --provider aws --key <AWS_KEY> --secret <AWS_SECRET>
     ```
-Desplegar la API:
+3. Desplegar la API:
     ```
     serverless deploy
     ```
