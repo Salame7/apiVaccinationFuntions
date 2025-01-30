@@ -9,7 +9,6 @@ Esta API permite la gestión de información de vacunación dentro de la platafo
 - **MongoDB** como base de datos.
 - **Express.js** como framework de backend.
 - **JWT (JSON Web Token)** para la autenticación.
-- **Axios** para llamadas HTTP a otros servicios.
 
 ## Instalación y Configuración
 ### Prerequisitos
